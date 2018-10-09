@@ -1,0 +1,8 @@
+Proyecto CRUD y maestro detalle con laravel y vue.js
+https://github.com/arcadio1894/curso-laravel-vue
+
+Proyecto del curso Laravel. Login con redes sociales 
+https://github.com/arcadio1894/test
+
+Proyecto base del curso de laravel
+https://github.com/arcadio1894/proyecto
