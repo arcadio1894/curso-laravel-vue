@@ -1,0 +1,10 @@
+1. Implementar el inicio de sesión
+2. Mandar un email(gmail, mailgun, mailtrip, etc) pero usando un evento_
+	Cuando creamos el producto se debe notificar a todos los clientes
+3. Escribir una prueba unitaria aplicado a cualquier cosa.
+	Primero hacer que falle e indicar cual es la mejora que se debe hacer.
+4. CRUD de usuarios usando vue.js con axios.
+5. En el create de Sales(ventas) implementar un boton para ver los detalles de cada venta. 
+6. Implementar el eliminado de ventas. Ademas notificar al usuario.
+7. Crear un archivo js aparte donde hagas uso de tu logica con vue.js y colocarlo en el archivo webpack y compilarlo usando laravel-mix.
+8. Implementar la logica necesaria para evitar agregar productos iguales.
